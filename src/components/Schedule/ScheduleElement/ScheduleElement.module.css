@@ -1,0 +1,14 @@
+.infoContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 20rem;
+    width: 15rem;
+    border: 0.1rem solid gray;
+}
+
+.headerText {
+    text-align: center;
+    font-size: 0.7rem;
+}

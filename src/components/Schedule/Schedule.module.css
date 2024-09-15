@@ -1,0 +1,44 @@
+.mainContainer {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    gap: 1rem;
+}
+
+.tableContainer {
+    border: 0.3rem solid gray;
+    border-radius: 2rem;
+    color: lightcyan;
+}
+
+.daysContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem;
+    border: 0.3rem solid gray;
+    border-radius: 1rem;
+    background-color: rgb(0, 0, 0);
+    color: lightcyan;
+}
+
+.tableRowContainer {
+    height: 20rem;
+    text-align: center;
+}
+
+.dayButton {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    background-color: black;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.dayButton:hover {
+    background-color: orange;
+}
