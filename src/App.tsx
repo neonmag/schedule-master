@@ -11,7 +11,20 @@ function App() {
             <HeaderLayout />
             <Routes>
                 <Route path="/" element={<MainLayout />}>
-                    <Route index={true} element={<Schedule />} />
+                    <Route
+                        index
+                        element={<Schedule scheduleFile="/schedule.json" />}
+                    />
+                    <Route
+                        path="masters"
+                        element={<Schedule scheduleFile="/schedule.json" />}
+                    />
+                    <Route
+                        path="bachelors"
+                        element={
+                            <Schedule scheduleFile="/bachelorsSchedule.json" />
+                        }
+                    />
                     <Route path="about" element={<About />} />
                 </Route>
             </Routes>

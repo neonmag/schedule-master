@@ -1,0 +1,43 @@
+.headerNav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.navElement {
+    width: 30rem;
+    text-align: center;
+    color: azure;
+    font-size: 2rem;
+    border: 1px solid gray;
+    border-radius: 2rem;
+    background-color: black;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease, width 0.3s ease,
+        font-size 0.3s ease;
+}
+
+.navElement:hover {
+    background-color: gray;
+    color: black;
+}
+
+.active {
+    background-color: darkblue;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .navElement {
+        width: 20rem;
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .navElement {
+        width: 15rem;
+        font-size: 1rem;
+    }
+}
