@@ -140,12 +140,12 @@ const Schedule = ({ scheduleFile }: ScheduleProps) => {
             </div>
             {selectedDay && (
                 <div className="groupTypeContainer">
-                    <label>Выберите тип группы:</label>
+                    <label>Оберіть тип групи:</label>
                     <select
                         onChange={(e) => handleGroupTypeChange(e.target.value)}
                         value={selectedGroupType || ''}
                     >
-                        <option value="">Все</option>
+                        <option value="">Всі</option>
                         {Array.from(
                             new Set(
                                 Object.keys(groupSchedules).map(

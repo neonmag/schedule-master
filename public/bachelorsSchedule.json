@@ -657,7 +657,7 @@
             ]
         },
         "АД": {
-            "АД201": [
+            "АД241": [
                 {
                     "startTime": "8:00",
                     "endTime": "9:35",
@@ -920,92 +920,1583 @@
     },
     "Середа": {
         "AI": {
-            "AI241": [{}],
-            "AI242": [{}],
-            "AI243": [{}],
-            "AI244": [{}],
-            "AI245": [{}]
+            "AI241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ст.в Гвоздь О.В.",
+                    "subject": "Іноземна мова"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лабораторне",
+                    "even": "Парна",
+                    "duration": "1-15",
+                    "teacher": "д.Анісімов В.О.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "2-14",
+                    "teacher": "д.Анісімов В.О.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Бочков П.М.",
+                    "subject": "Фізичне виховання"
+                }
+            ],
+            "AI242": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лабораторне",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "д.Анісімов В.О.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д.Анісімов В.О.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "1-15",
+                    "teacher": "ст.в Добровольська Ю.Л.",
+                    "subject": "Іноземна мова"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Бочков П.М.",
+                    "subject": "Фізичне виховання"
+                }
+            ],
+            "AI243": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Желіба Т.О.",
+                    "subject": "Вища математика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ст.в. Томенко М.Г. ",
+                    "subject": "Іноземна мова"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Бочков П.М.",
+                    "subject": "Фізичне виховання"
+                }
+            ],
+            "AI244": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лабораторне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ств.Іванов О.В.",
+                    "subject": "Алгоритмізація"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Бабілунга О.Ю.",
+                    "subject": "Алгоритмізація та програмування"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Бочков П.М.",
+                    "subject": "Фізичне виховання"
+                }
+            ],
+            "AI245": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ас. Лисун Д.С.",
+                    "subject": "Іноземна мова"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Бабілунга О.Ю.",
+                    "subject": "Алгоритмізація та програмування"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Бочков П.М.",
+                    "subject": "Фізичне виховання"
+                }
+            ]
+        },
+        "АД": {
+            "AД241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ств.Гуляєва Н.А.",
+                    "subject": "Дискретна математика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лабораторне",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "ств.Гуляєва Н.А.",
+                    "subject": "Дискретна математика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лабораторне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "ств.Гуляєва Н.А.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "пр. Джуринський Б.В.",
+                    "subject": "Фізичне виховання"
+                }
+            ]
         },
         "AM": {
-            "AM241": [{}]
+            "AM241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Присяжнюк О.Я.  .",
+                    "subject": "Іноземна мова"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ст.в. Головачова О.В.",
+                    "subject": "Програмування"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "пр. Джуринський Б.В.",
+                    "subject": "Фізичне виховання"
+                }
+            ]
         },
         "AC": {
-            "AC241": [{}],
-            "AC242": [{}],
-            "AC243": [{}],
-            "AC244": [{}],
-            "AC245": [{}],
-            "AC246": [{}]
+            "AC241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "ств. Горпенко Д.Р.",
+                    "subject": "Основи програмув."
+                },
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лабораторне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "проф. Рувінська В.М.",
+                    "subject": "Основи програмув."
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "2-14",
+                    "teacher": "д.Федорова А.І.",
+                    "subject": "Історія України та укр. культури та української культури"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Бєсєда В.В.",
+                    "subject": "Фізичне виховання"
+                }
+            ],
+            "AC242": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "2-14",
+                    "teacher": "д.Федорова А.І.",
+                    "subject": "Історія України та укр. культури та української культури"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Бєсєда В.В.",
+                    "subject": "Фізичне виховання"
+                }
+            ],
+            "AC243": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Андрейкова І.Б.",
+                    "subject": "Іноземна мова"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "2-14",
+                    "teacher": "д.Федорова А.І.",
+                    "subject": "Історія України та укр. культури та української культури"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Бєсєда В.В.",
+                    "subject": "Фізичне виховання"
+                }
+            ],
+            "AC244": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ст.в Воробйова К.В.",
+                    "subject": "Іноземна мова"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "ств. Горпенко Д.Р.",
+                    "subject": "Основи програмув."
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "доц. Денисенко А.В.,",
+                    "subject": "Основи програмув."
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Бєсєда В.В.",
+                    "subject": "Фізичне виховання"
+                }
+            ],
+            "AC245": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ст.в Воробйова К.В.",
+                    "subject": "Іноземна мова"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Бєсєда В.В.",
+                    "subject": "Фізичне виховання"
+                }
+            ],
+            "AC246": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ас. Закирничний Д.Є.",
+                    "subject": "Іноземна мова"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Бєсєда В.В.",
+                    "subject": "Фізичне виховання"
+                }
+            ]
         },
         "AH": {
-            "AH241": [{}]
+            "AH241": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ст.в Воробйова К.В.",
+                    "subject": "Іноземна мова"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "пр. Джуринський Б.В.",
+                    "subject": "Фізичне виховання"
+                }
+            ]
         },
         "AT": {
-            "AT241": [{}],
-            "AT242": [{}]
+            "AT241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "пр.Маслов О.В.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Сперанський В.О.",
+                    "subject": "Програмування та теорія алгоритмів"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Шаблій Т.Б.",
+                    "subject": "Фізичне виховання"
+                }
+            ],
+            "AT242": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "пр.Маслов О.В.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Сперанський В.О.",
+                    "subject": "Програмування та теорія алгоритмів"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Шаблій Т.Б.",
+                    "subject": "Фізичне виховання"
+                }
+            ]
         },
         "AA": {
-            "AA241": [{}]
+            "AA241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Юрченко М.О.",
+                    "subject": "Математичний аналіз"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Юрченко М.О.",
+                    "subject": "Математичний аналіз"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "пр. Джуринський Б.В.",
+                    "subject": "Фізичне виховання"
+                }
+            ]
         }
     },
     "Четвер": {
         "AI": {
-            "AI241": [{}],
-            "AI242": [{}],
-            "AI243": [{}],
-            "AI244": [{}],
-            "AI245": [{}]
+            "AI241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "пр.Усов А.В.",
+                    "subject": "Вища математика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лабораторне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Бабілунга О.Ю.",
+                    "subject": "Алгоритмізація та програмування"
+                }
+            ],
+            "AI242": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "пр.Усов А.В.",
+                    "subject": "Вища математика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Желіба Т.О.",
+                    "subject": "Вища математика"
+                }
+            ],
+            "AI243": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "пр.Усов А.В.",
+                    "subject": "Вища математика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лабораторне",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "д.Анісімов В.О.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д.Анісімов В.О.",
+                    "subject": "Фізика"
+                }
+            ],
+            "AI244": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "пр.Усов А.В.",
+                    "subject": "Вища математика"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Лабораторне",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "д.Анісімов В.О.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "2-14",
+                    "teacher": "д.Анісімов В.О.",
+                    "subject": "Фізика"
+                }
+            ],
+            "AI245": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лабораторне",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "д.Анісімов В.О.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "2-14",
+                    "teacher": "д.Анісімов В.О.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "пр.Усов А.В.",
+                    "subject": "Вища математика"
+                }
+            ]
+        },
+        "АД": {
+            "AД241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Шибаєва Н.О.",
+                    "subject": "Методи та технології обробки інформації"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Андрейкова І.Б. ",
+                    "subject": "Іноземна мова"
+                }
+            ]
         },
         "AM": {
-            "AM241": [{}]
+            "AM241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "д.Федорова А.І.",
+                    "subject": "Історія України та укр. культури та укр. культури"
+                },
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лабораторне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д.Федорова А.І.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лабораторне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "ст.в. Головачова О.В.",
+                    "subject": "Програмування"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "ст.в. Тостановська І.Б.",
+                    "subject": "Вища математика"
+                }
+            ]
         },
         "AC": {
-            "AC241": [{}],
-            "AC242": [{}],
-            "AC243": [{}],
-            "AC244": [{}],
-            "AC245": [{}],
-            "AC246": [{}]
+            "AC241": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ств.Горпенко Д.Р.",
+                    "subject": "Алгоритми та структури даних"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ст.в Воробйова К.В.",
+                    "subject": "Іноземна мова"
+                }
+            ],
+            "AC242": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "ст.викл. Горпенко Д.Р.",
+                    "subject": "Основи програмув."
+                },
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лабораторне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "доц. Денисенко А.В.,",
+                    "subject": "Основи програмув."
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ств.Горпенко Д.Р.",
+                    "subject": "Алгоритми та структури даних"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ст.в Лебедєва О.В.",
+                    "subject": "Іноземна мова"
+                }
+            ],
+            "AC243": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ств.Горпенко Д.Р.",
+                    "subject": "Алгоритми та структури даних"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "д. Грібова В.В.",
+                    "subject": "Вища математика"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д. Волкова Н.П.",
+                    "subject": "Основи ПІ"
+                }
+            ],
+            "AC244": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Волкова Н.П.",
+                    "subject": "Основи програмної інженерії"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "д. Грібова В.В.",
+                    "subject": "Вища математика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д. Волкова Н.П.",
+                    "subject": "Основи ПІ"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "д.Федорова А.І.",
+                    "subject": "Історія України та укр. культури"
+                }
+            ],
+            "AC245": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Волкова Н.П.",
+                    "subject": "Основи програмної інженерії"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "д. Волкова Н.П.",
+                    "subject": "Основи ПІ"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д. Грібова В.В.",
+                    "subject": "Вища математика"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Лабораторне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "ств. Оніщенко Т.В.",
+                    "subject": "Організація даних"
+                }
+            ],
+            "AC246": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Волкова Н.П.",
+                    "subject": "Основи програмної інженерії"
+                },
+                {
+                    "startTime": "9:35",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ст.в Воробйова К.В.",
+                    "subject": "Іноземна мова"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "д.Волкова Н.П.",
+                    "subject": "Основи ПІ"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д.Грібова В.В.",
+                    "subject": "Вища математика"
+                }
+            ]
         },
         "AH": {
-            "AH241": [{}]
+            "AH241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Волкова Н.П.",
+                    "subject": "Основи програмної інженерії"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "д. Волкова Н.П.",
+                    "subject": "Основи ПІ"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д. Грібова В.В.",
+                    "subject": "Вища математика"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Лабораторне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "ств. Оніщенко Т.В.",
+                    "subject": "Організація даних"
+                }
+            ]
         },
         "AT": {
-            "AT241": [{}],
-            "AT242": [{}]
+            "AT241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "пр.Пєлих С.М.",
+                    "subject": "Дискретні моделі та струк"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ст.в Добровольська Ю.Л.",
+                    "subject": "Іноземна мова"
+                }
+            ],
+            "AT242": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "пр.Пєлих С.М.",
+                    "subject": "Дискретні моделі та струк"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ст.в Єршова Ю.А.",
+                    "subject": "Іноземна мова"
+                }
+            ]
         },
         "AA": {
-            "AA241": [{}]
+            "AA241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Нестерюк А.Г.",
+                    "subject": "Програмування"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лабораторне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Нестерюк А.Г.",
+                    "subject": "Програмування"
+                }
+            ]
         }
     },
     "П`ятниця": {
         "AI": {
-            "AI241": [{}],
-            "AI242": [{}],
-            "AI243": [{}],
-            "AI244": [{}],
-            "AI245": [{}]
+            "AI241": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Мельник О.В.",
+                    "subject": "Історія України та української культури"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Присяжнюк О.Я",
+                    "subject": "Іноземна мова"
+                }
+            ],
+            "AI242": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Мельник О.В.",
+                    "subject": "Історія України та української культури"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Лабораторне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ств.Іванов О.В.",
+                    "subject": "Алгоритмізація та програмування"
+                }
+            ],
+            "AI243": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лабораторне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ств.Іванов О.В.",
+                    "subject": "Алгоритмізація та програмування"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Мельник О.В.",
+                    "subject": "Історія України та української культури"
+                }
+            ],
+            "AI244": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Присяжнюк О.Я",
+                    "subject": "Іноземна мова"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Мельник О.В.",
+                    "subject": "Історія України та української культури"
+                }
+            ],
+            "AI245": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ст.в.  Сікіраш Ю.Є",
+                    "subject": "Вища математика"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д.Мельник О.В.",
+                    "subject": "Історія України та української культури"
+                }
+            ]
+        },
+        "АД": {
+            "AД241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лабораторне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д.Шибаєва Н.О. пр. Вичужанін В.В.",
+                    "subject": "Методи та техн.обробки інфор"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ств.Потиєнко А.С.",
+                    "subject": "Алгоритмізація ат програм"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Лабораторне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "ств.Потиєнко А.С.",
+                    "subject": "Алгоритмізація ат програм"
+                }
+            ]
         },
         "AM": {
-            "AM241": [{}]
+            "AM241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "пр. Защолкін К.В.",
+                    "subject": "Арифметичні основи обчислювальної техніки"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лабораторне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "д. Щендрік Є.В.",
+                    "subject": "Основи алгоритмізації"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "пр. Защолкін К.В.",
+                    "subject": "Арифметичні основи ОТ"
+                }
+            ]
         },
         "AC": {
-            "AC241": [{}],
-            "AC242": [{}],
-            "AC243": [{}],
-            "AC244": [{}],
-            "AC245": [{}],
-            "AC246": [{}]
+            "AC241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д.Волкова Н.П.",
+                    "subject": "Основи ПІ"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лабораторне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "д.Федорова А.І.",
+                    "subject": "Історія України та укр. культури та укр. культури"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "ств.Горпенко Д.Р.",
+                    "subject": "Алгоритми та структури даних"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д.Грібова В.В.",
+                    "subject": "Вища математика"
+                }
+            ],
+            "AC242": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "д.Волкова Н.П.",
+                    "subject": "Основи ПІ"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "Алгоритми та структури даних",
+                    "subject": "ств.Горпенко Д.Р."
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д.Федорова А.І.",
+                    "subject": "Історія України та укр. культури та укр. культури"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "д.Грібова В.В.",
+                    "subject": "Вища математика"
+                }
+            ],
+            "AC243": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "ств.Горпенко Д.Р.",
+                    "subject": "Алгоритми"
+                },
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д.Федорова А.І.",
+                    "subject": "Історія України та укр. культури"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Андрейкова І.Б. ",
+                    "subject": "Іноземна мова"
+                }
+            ],
+            "AC244": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "ств. Оніщенко Т.В.",
+                    "subject": "Організація даних в обчисл.системах"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д.Грібова В.В.",
+                    "subject": "Вища математика"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "ств.Горпенко Д.Р.",
+                    "subject": "Алгоритми"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Лабораторне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "ств. Оніщенко Т.В.",
+                    "subject": "Аналіз даних "
+                }
+            ],
+            "AC245": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "ств. Оніщенко Т.В.",
+                    "subject": "Організація даних в обчисл.системах"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д.Грібова В.В.",
+                    "subject": "Вища математика"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "проф. Сухотеріна Л.І.",
+                    "subject": "Історія України та укр. культури"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "ств.Горпенко Д.Р.",
+                    "subject": "Алгоритми"
+                }
+            ],
+            "AC246": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лабораторне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "ств. Оніщенко Т.В.",
+                    "subject": "Організація даних"
+                },
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "ств.Горпенко Д.Р.",
+                    "subject": "Алгоритми"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "ств. Оніщенко Т.В.",
+                    "subject": "Організація даних в обчисл.системах"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д.Грібова В.В.",
+                    "subject": "Вища математика"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "проф. Сухотеріна Л.І.",
+                    "subject": "Історія України та укр. культури"
+                }
+            ]
         },
         "AH": {
-            "AH241": [{}]
+            "AH241": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "ств. Оніщенко Т.В.",
+                    "subject": "Організація даних в обчисл.системах"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д.Грібова В.В.",
+                    "subject": "Вища математика"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "проф. Сухотеріна Л.І.",
+                    "subject": "Історія України та укр. культури"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "ств.Горпенко Д.Р.",
+                    "subject": "Алгоритми"
+                }
+            ]
         },
         "AT": {
-            "AT241": [{}],
-            "AT242": [{}]
+            "AT241": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "пр. Фомін О.О.",
+                    "subject": "Пакети прикладних програм"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лабораторне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "са.Євсєєв О.В.",
+                    "subject": "Програмування"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лабораторне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "са.Євсєєв О.В.",
+                    "subject": "Пакети приклад програм"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Лабораторне",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "пр.Маслов О.В.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "пр.Маслов О.В.",
+                    "subject": "Фізика"
+                }
+            ],
+            "AT242": [
+                {
+                    "startTime": "8:00",
+                    "endTime": "9:35",
+                    "type": "Лекція",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "пр. Фомін О.О.",
+                    "subject": "Пакети прикладних програм"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лабораторне",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "пр.Маслов О.В.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Практичне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "пр.Маслов О.В.",
+                    "subject": "Фізика"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Лабораторне",
+                    "even": "Непарна",
+                    "duration": "3-15",
+                    "teacher": "са.Євсєєв О.В.",
+                    "subject": "Програмування"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Лабораторне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "са.Євсєєв О.В.",
+                    "subject": "Пакети приклад програм"
+                }
+            ]
         },
         "AA": {
-            "AA241": [{}]
+            "AA241": [
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лекція",
+                    "even": "Непарна",
+                    "duration": "1-15",
+                    "teacher": "д.Нестерюк А.Г.",
+                    "subject": "Вступ до спеціальності"
+                },
+                {
+                    "startTime": "9:50",
+                    "endTime": "11:25",
+                    "type": "Лабораторне",
+                    "even": "Парна",
+                    "duration": "2-14",
+                    "teacher": "д.Нестерюк А.Г.",
+                    "subject": "Вступ до спеціальності"
+                },
+                {
+                    "startTime": "11:40",
+                    "endTime": "13:15",
+                    "type": "Практичне",
+                    "even": null,
+                    "duration": "1-15",
+                    "teacher": "д. Андрейкова І.Б.",
+                    "subject": "Іноземна мова"
+                }
+            ]
         }
     }
 }
