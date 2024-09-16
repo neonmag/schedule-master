@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import ScheduleElement from './ScheduleElement/ScheduleElement';
-import style from './Schedule.module.css';
+import './Schedule.css';
 
 interface ScheduleElementProps {
     startTime: string;
@@ -38,12 +38,10 @@ const Schedule = () => {
                 const data = await response.json();
                 setScheduleData(data);
 
-                // Set default selected day to the first day in the data
                 if (Object.keys(data).length > 0) {
                     setSelectedDay(Object.keys(data)[0]);
                 }
 
-                // Update groups and schedules
                 updateGroupsAndSchedules(data);
             } catch (error) {
                 console.error('Ошибка при загрузке JSON:', error);
@@ -95,19 +93,19 @@ const Schedule = () => {
     }
 
     return (
-        <div className={style.mainContainer}>
-            <div className={style.daysContainer}>
+        <div className="mainContainer">
+            <div className="daysContainer">
                 {days.map((day) => (
                     <button
                         key={day}
                         onClick={() => setSelectedDay(day)}
-                        className={style.dayButton}
+                        className="dayButton"
                     >
                         {day}
                     </button>
                 ))}
             </div>
-            <table className={style.tableContainer} cellPadding={10}>
+            <table className="tableContainer" cellPadding={10}>
                 <thead>
                     <tr>
                         <th>Час</th>
@@ -118,8 +116,8 @@ const Schedule = () => {
                 </thead>
                 <tbody>
                     {times.map((time) => (
-                        <tr className={style.tableRowContainer} key={time}>
-                            <td className={style.tableRowContainer}>{time}</td>
+                        <tr className="tableRowContainer" key={time}>
+                            <td className="tableRowContainer">{time}</td>
                             {groups.map((group) => (
                                 <td key={group}>
                                     {groupSchedules[group] &&
