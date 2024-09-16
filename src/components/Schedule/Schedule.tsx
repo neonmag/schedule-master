@@ -51,7 +51,7 @@ const Schedule = ({ scheduleFile }: ScheduleProps) => {
                 if (!selectedDay && Object.keys(data).length > 0) {
                     setSelectedDay(Object.keys(data)[0]);
                 }
-
+                console.log(groups);
                 updateGroupsAndSchedules(data);
             } catch (error) {
                 console.error('Ошибка при загрузке JSON:', error);
